@@ -22,10 +22,10 @@ Public datasets from Kaggle covering the 22 editions from 1930 to 2022:
 
 ## Approach
 
-1. **Data collection** — selected the Kaggle datasets that could answer the business question.
-2. **Cleaning** (Dataiku) — handled missing values and harmonised obsolete entries, for example merging *West Germany* and *East Germany* into *Germany* so that historical results are comparable.
-3. **Joins** (Dataiku) — joined the datasets into a single analysis table (goals, attendance, results, teams).
-4. **Dashboard** (Grafana) — exported the table and built a dashboard around 9 KPIs, with a filter by edition.
+1. **Data collection** Selected the Kaggle datasets that could answer the business question.
+2. **Cleaning** (Dataiku) Handled missing values and harmonised obsolete entries, for example merging *West Germany* and *East Germany* into *Germany* so that historical results are comparable.
+3. **Joins** (Dataiku) Joined the datasets into a single analysis table (goals, attendance, results, teams).
+4. **Dashboard** (Grafana) Exported the table and built a dashboard around 9 KPIs, with a filter by edition.
 
 ## The 9 KPIs
 
