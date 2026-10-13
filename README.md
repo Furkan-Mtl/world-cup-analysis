@@ -1,13 +1,13 @@
-# FIFA World Cup — Historical Analysis (1930–2022)
+# FIFA World Cup, Historical Analysis (1930–2022)
 
-> University team project · BUT Informatique (Bachelor's degree in Computer Science), data specialisation · IUT d'Amiens
-> Tools: **Dataiku** (data preparation and joins) · **Grafana** (dashboard)
+> University team project | BUT Informatique (Bachelor's degree in Computer Science), data specialisation | IUT d'Amiens
+> Tools: **Dataiku** (data preparation and joins) | **Grafana** (dashboard)
 
 ![Dashboard overview](images/dashboard-part1.png)
 
 ## Business question
 
-> Which key indicators best explain how the World Cup has evolved, its highlights, and the growing interest it attracts over the editions?
+> Which key indicators best explain how the World Cup has evolved, its highlights, and the growing interest it attracts over the editions ?
 
 ## Data
 
