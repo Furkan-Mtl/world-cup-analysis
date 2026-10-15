@@ -1,4 +1,4 @@
-# FIFA World Cup, Historical Analysis (1930–2022)
+# FIFA World Cup: Historical Analysis (1930–2022)
 
 > University team project | BUT Informatique (Bachelor's degree in Computer Science), data specialisation | IUT d'Amiens
 > Tools: **Dataiku** (data preparation and joins) | **Grafana** (dashboard)
